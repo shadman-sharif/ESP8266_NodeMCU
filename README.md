@@ -60,7 +60,6 @@ Typical uses:
 ```text
 ESP8266-NodeMCU-Guide/
 ├── README.md
-├── LICENSE
 ├── .gitignore
 ├── docs/
 │   ├── hardware.md
