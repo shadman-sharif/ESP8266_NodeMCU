@@ -59,13 +59,13 @@ A low-cost Wi-Fi development board built around the **ESP8266** chip, with USB-t
 
 <img src="images/nodemcu-board.jpg" 
      alt="NodeMCU ESP8266 Board" 
-     width="500">
+     width="600">
 
 ### NodeMCU ESP8266 Pinout
 
 <img src="images/nodemcu-pinout.png" 
      alt="NodeMCU ESP8266 Pinout" 
-     width="500">
+     width="800">
 ---
 
 ## ⚖️ NodeMCU vs. Alternatives
