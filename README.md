@@ -53,6 +53,17 @@ A low-cost Wi-Fi development board built around the **ESP8266** chip, with USB-t
 - Only **one** analog pin (A0), 0–1 V natively at the chip, stepped up to 0–3.3 V on NodeMCU boards via an onboard resistor divider — this is why raw ESP-12 modules and NodeMCU dev boards give different `analogRead()` ranges for the same voltage.
 
 ---
+## NodeMCU ESP8266
+
+### NodeMCU Board
+
+![NodeMCU Board](images/nodecmcu-board.jpg)
+
+### NodeMCU Pinout
+
+![NodeMCU Pinout](images/nodecmcu-pinout.png)
+
+---
 
 ## ⚖️ NodeMCU vs. Alternatives
 
